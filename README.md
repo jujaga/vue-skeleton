@@ -3,6 +3,8 @@
 
 A clean Vue Keycloak full-stack Skeleton example
 
+_Note: This repository has been archived. You can find its successor at [bcgov/vue-scaffold](https://github.com/bcgov/vue-scaffold)._
+
 ## Directory Structure
 
     .github/                   - PR and Issue templates
